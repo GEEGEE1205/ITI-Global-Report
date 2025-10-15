@@ -1,4 +1,4 @@
-#### ITI-Global-Report
+#### ITI-Global Sales Report
 
 **Project Title:ITI-Global-Report**
 
@@ -7,7 +7,7 @@
 ###  **Project Overview**
 
 This project explores a **Retail Sales Dataset** using **Microsoft Power BI** to gain insight into the company’s performance across different regions and product categories.
-The analysis helps identify revenue trends, profit patterns, discount impacts, and top-performing products — providing a data-driven foundation for better sales strategy and decision-making.
+The analysis helps identify revenue trends, profit patterns, discount impacts, and top performing products providing a data-driven foundation for better sales strategy and decision making.
 
 ---
 
